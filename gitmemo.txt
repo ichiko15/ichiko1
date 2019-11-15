@@ -1,2 +1,3 @@
 ﻿GITTESTメモ改
 UTF-8変更
+charset
